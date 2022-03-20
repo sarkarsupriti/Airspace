@@ -1,0 +1,14 @@
+{
+  "name": "supritiassignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node_modules/.bin/cypress open"
+  },
+  "author": "Supriti Sarkar",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^9.5.2"
+  }
+}
